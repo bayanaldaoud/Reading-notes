@@ -18,7 +18,7 @@ Markdown is a way to style text on the web.where you can control several things 
   * Item 2a
   * Item 2b
   ```
-  ### Links
+### Links
   ```
   http://google.com - automatic!
 [GOOGLE](http://google.com)
