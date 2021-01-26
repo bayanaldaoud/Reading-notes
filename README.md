@@ -16,14 +16,17 @@ ___
 ```
 ___
 
-## You can know more about growth mindsets:
+## You can know more about [growth mindsets](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
 
-https://www.atlassian.com/blog/inside-atlassian/growth-mindset
+
+
+
 
 ___
 
 ## **Bayan Aldaoud**
 I'm graduated from literature college but I did't like the major so I decided to study something suits my interest.
-### My Github Account :https://github.com/bayanaldaoud
+### My Github Account : [GITHUB](https://github.com/bayanaldaoud)
+
 
 ___
