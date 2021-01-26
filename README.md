@@ -26,7 +26,7 @@ ___
 
 ## **Bayan Aldaoud**
 I'm graduated from literature college but I did't like the major so I decided to study something suits my interest.
-### My Github Account : [GITHUB](https://github.com/bayanaldaoud)
+### My Github Account : [Bayan Aldaoud](https://github.com/bayanaldaoud)
 
 
 ___
