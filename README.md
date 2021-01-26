@@ -1,5 +1,5 @@
 # **Growth Mindsets**
- ## What is ?
+## What is ?
  
 #### growth mindsets is the beast *method* helps you to know how to deal with the problems you face.***This method depends on*** ability ,effort, patience and intention . when you are a fixed mind person you’ll face a lot of problems such as ~~stopping~~ in your first step  or give up **immediately**.
 
@@ -10,9 +10,9 @@ ___
 
 ## Tips
 ```
-* Know that everything is hard at the beginning .
-* Ask for help .
-* Keep cheer up .
+- Know that everything is hard at the beginning .
+- Ask for help .
+- Keep cheer up .
 ```
 ___
 
