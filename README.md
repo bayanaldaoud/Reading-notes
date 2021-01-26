@@ -22,8 +22,8 @@ I'm graduated from literature college but I did't like the major so I decided to
 
 **table of content**
 
-| 201 Reads                                                      | Title                                   |
-| -------------------------------------------------------------- | --------------------------------------- |
-| [main page](https://bayanaldaoud.github.io/Reading-notes/)     | main page                               |
-| [Read2a](https://bayanaldaoud.github.io/Reading-notes/read2a)  | Introductory HTML                       |
-| [Read2a](https://bayanaldaoud.github.io/Reading-notes/read2b)  | Introductory HTML                       |
+| 201 Reads                                                      | Title                                         |
+| -------------------------------------------------------------- | --------------------------------------------- |
+| [main page](https://bayanaldaoud.github.io/Reading-notes/)     |   growth mindsets                             |
+| [Read2a](https://bayanaldaoud.github.io/Reading-notes/read2a)  |   Learning Markdown                           |
+| [Read2b](https://bayanaldaoud.github.io/Reading-notes/read2b)  |   Revisions and the Cloud                     |
