@@ -10,9 +10,9 @@ ___
 
 ## Tips
 ```
-- Know that everything is hard at the beginning .
-- Ask for help .
-- Keep cheer up .
+1. Know that everything is hard at the beginning .
+2. Ask for help .
+3. Keep cheer up .
 ```
 ___
 
