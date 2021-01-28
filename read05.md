@@ -1,7 +1,7 @@
 
 # <span style="color:gold">Operators and Loops </span>
  
- ## <span style ="color:teal">Comparison and logical operators :</span>
+## <span style ="color:teal">Comparison and logical operators :</span>
 
 ![](https://lh3.googleusercontent.com/proxy/80dnrUOGABl6Fj9rk2vKQDIDaChC2DS96BLV2k4pgVW6KT9WNdgjpN9bMYWHk5PUJg0bKRQTuchDues1cLT4sqxzhPiB0jiUwgo)
 
