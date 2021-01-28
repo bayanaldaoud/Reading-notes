@@ -35,6 +35,6 @@ create a single value from one or more values.
 1. Arithmetic 
 2. Logical
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/arithmetic-operators.png)
+![](https://i.ytimg.com/vi/fBONUeRXYLU/maxresdefault.jpg)
 
 
