@@ -30,5 +30,7 @@ I'm graduated from literature college but I did't like the major so I decided to
 | [Read03](https://bayanaldaoud.github.io/Reading-notes/read03)  |   Structure web pages with HTML               |
 | [Read04](https://bayanaldaoud.github.io/Reading-notes/read04)  |   Programming with JavaScript                 |
 | [Read05](https://bayanaldaoud.github.io/Reading-notes/read05)  |    Operators and Loops                        |
+| [Read6a](https://bayanaldaoud.github.io/Reading-notes/read6a)  |    Function                                   |
+| [Read6b](https://bayanaldaoud.github.io/Reading-notes/read6b)  |    Design web pages with CSS                  |
 
 
