@@ -1,4 +1,4 @@
-# Reading Notes 
+
 
 # Growth Mindsets 
 ## What is ?
@@ -19,7 +19,7 @@ growth mindsets is the beast *method* helps you to know how to deal with the pro
 3. Keep cheer up .
 ```
 
-### You can know more about [growth mindsets](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
+### <span style ="color:grey"> You can know more about </span> [growth mindsets](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
 
 
 #  <span style ="color:indianred"> **Code 102 Reading Notes** </span>
@@ -39,7 +39,7 @@ growth mindsets is the beast *method* helps you to know how to deal with the pro
 
 | reading assignments                                                | Title                                         |
 | -------------------------------------------------------------------| --------------------------------------------- |
-| [Read2a](https://bayanaldaoud.github.io/Reading-notes/class-01.md) |  Introductory HTML and JavaScript    1        |
+| [Read2a](https://bayanaldaoud.github.io/Reading-notes/class-01.md) |  Introductory HTML and JavaScript             |
 |                               -                                    |                                      2        |
 |                               -                                    |                                      3        |
 |                               -                                    |                                      4        |
