@@ -22,9 +22,9 @@ growth mindsets is the beast *method* helps you to know how to deal with the pro
 ### You can know more about [growth mindsets](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
 
 
-#  <span style ="color:indianred"> **Reading Notes 102** </span>
+#  <span style ="color:indianred"> **Code 102 Reading Notes** </span>
 
-| Links                                                          | Title                                         |
+| reading assignments                                            | Title                                         |
 | -------------------------------------------------------------- | --------------------------------------------- |
 | [main page](https://bayanaldaoud.github.io/Reading-notes/)     |   growth mindsets                             |
 | [Read2a](https://bayanaldaoud.github.io/Reading-notes/read2a)  |   Learning Markdown                           |
@@ -35,12 +35,25 @@ growth mindsets is the beast *method* helps you to know how to deal with the pro
 | [Read6a](https://bayanaldaoud.github.io/Reading-notes/read6a)  |    Function                                   |
 | [Read6b](https://bayanaldaoud.github.io/Reading-notes/read6b)  |    Design web pages with CSS                  |
 
-#    <span style ="color:indianred"> **Reading Notes 201** </span>
+#    <span style ="color:indianred"> **Code 201 Reading Notes** </span>
 
-| Links                                                              | Title                                         |
+| reading assignments                                                | Title                                         |
 | -------------------------------------------------------------------| --------------------------------------------- |
-| [main page](https://bayanaldaoud.github.io/Reading-notes/)         |  Reading notes                                |
-| [Read2a](https://bayanaldaoud.github.io/Reading-notes/class-01.md) |  Introductory HTML and JavaScript             |
+| [Read2a](https://bayanaldaoud.github.io/Reading-notes/class-01.md) |  Introductory HTML and JavaScript    1        |
+|                               -                                    |                                      2        |
+|                               -                                    |                                      3        |
+|                               -                                    |                                      4        |
+|                               -                                    |                                      5        |
+|                               -                                    |                                      6        |
+|                               -                                    |                                      7        |
+|                               -                                    |                                      8        |
+|                               -                                    |                                      9        |
+|                               -                                    |                                     10        |
+|                               -                                    |                                     11        |
+|                               -                                    |                                     12        |
+|                               -                                    |                                     13        |
+|                               -                                    |                                     14        |
+|                               -                                    |                                     15        |
 
 
 
