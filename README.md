@@ -22,7 +22,7 @@
 | reading assignments                                                | Title                                         |
 | -------------------------------------------------------------------| --------------------------------------------- |
 |[class-01](https://bayanaldaoud.github.io/Reading-notes/class-01)   |  Introductory HTML and JavaScript             |
-|                               -                                    |                                      2        |
+|[class-02](https://bayanaldaoud.github.io/Reading-notes/class-02)   |  Basics of HTML, CSS & JS                     |
 |                               -                                    |                                      3        |
 |                               -                                    |                                      4        |
 |                               -                                    |                                      5        |
