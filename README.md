@@ -21,7 +21,7 @@
 
 | reading assignments                                                | Title                                         |
 | -------------------------------------------------------------------| --------------------------------------------- |
-| [Read2a](https://bayanaldaoud.github.io/Reading-notes/class-01.md) |  Introductory HTML and JavaScript             |
+|[class-01](https://bayanaldaoud.github.io/Reading-notes/class-01.md)|  Introductory HTML and JavaScript             |
 |                               -                                    |                                      2        |
 |                               -                                    |                                      3        |
 |                               -                                    |                                      4        |
