@@ -1,9 +1,9 @@
+# Reading Notes
 
-
-# Growth Mindsets 
-## What is ?
+## Growth Mindsets 
+### What is ?
  
-growth mindsets is the beast *method* helps you to know how to deal with the problems you face.***This method depends on*** ability ,effort, patience and intention . when you are a fixed mind person you’ll face a lot of problems such as ~~stopping~~ in your first step  or give up **immediately**.
+#### growth mindsets is the beast *method* helps you to know how to deal with the problems you face.***This method depends on*** ability ,effort, patience and intention . when you are a fixed mind person you’ll face a lot of problems such as ~~stopping~~ in your first step  or give up **immediately**.
 
 <p align="center">
 <img src="https://adigaskell.org/wp-content/uploads/2018/06/growth-mindset.jpg" width="400" >
@@ -24,16 +24,16 @@ growth mindsets is the beast *method* helps you to know how to deal with the pro
 
 #  <span style ="color:indianred"> **Code 102 Reading Notes** </span>
 
-| reading assignments                                            | Title                                         |
-| -------------------------------------------------------------- | --------------------------------------------- |
-| [main page](https://bayanaldaoud.github.io/Reading-notes/)     |   growth mindsets                             |
-| [Read2a](https://bayanaldaoud.github.io/Reading-notes/read2a)  |   Learning Markdown                           |
-| [Read2b](https://bayanaldaoud.github.io/Reading-notes/read2b)  |   Revisions and the Cloud                     |
-| [Read03](https://bayanaldaoud.github.io/Reading-notes/read03)  |   Structure web pages with HTML               |
-| [Read04](https://bayanaldaoud.github.io/Reading-notes/read04)  |   Programming with JavaScript                 |
-| [Read05](https://bayanaldaoud.github.io/Reading-notes/read05)  |    Operators and Loops                        |
-| [Read6a](https://bayanaldaoud.github.io/Reading-notes/read6a)  |    Function                                   |
-| [Read6b](https://bayanaldaoud.github.io/Reading-notes/read6b)  |    Design web pages with CSS                  |
+| reading assignments                                               | Title                                         |
+| ----------------------------------------------------------------- | --------------------------------------------- |
+| [mindsets](https://bayanaldaoud.github.io/Reading-notes/mindsets) |  growth mindsets                              |
+| [Read2a](https://bayanaldaoud.github.io/Reading-notes/read2a)     |   Learning Markdown                           |
+| [Read2b](https://bayanaldaoud.github.io/Reading-notes/read2b)     |   Revisions and the Cloud                     |
+| [Read03](https://bayanaldaoud.github.io/Reading-notes/read03)     |   Structure web pages with HTML               |
+| [Read04](https://bayanaldaoud.github.io/Reading-notes/read04)     |   Programming with JavaScript                 |
+| [Read05](https://bayanaldaoud.github.io/Reading-notes/read05)     |    Operators and Loops                        |
+| [Read6a](https://bayanaldaoud.github.io/Reading-notes/read6a)     |    Function                                   |
+| [Read6b](https://bayanaldaoud.github.io/Reading-notes/read6b)     |    Design web pages with CSS                  |
 
 #    <span style ="color:indianred"> **Code 201 Reading Notes** </span>
 
