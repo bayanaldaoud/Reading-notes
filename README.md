@@ -1,6 +1,6 @@
 # Reading Notes
 <p align="center">
-<img src="https://ramses.blog/how-take-notes-part-2/images/featured-image-how-take-smart-notes.png" width="300" >
+<img src="https://image.freepik.com/free-vector/online-education-illustration-book-notes-smartphone-education-icon-concept-white-isolated_138676-637.jpg" width="400" >
 </p>
 
 
@@ -23,7 +23,7 @@
 | -------------------------------------------------------------------| --------------------------------------------- |
 |[class-01](https://bayanaldaoud.github.io/Reading-notes/class-01)   |  Introductory HTML and JavaScript             |
 |[class-02](https://bayanaldaoud.github.io/Reading-notes/class-02)   |  Basics of HTML, CSS & JS                     |
-|                               -                                    |                                      3        |
+|[class-03](https://bayanaldaoud.github.io/Reading-notes/class-03)   |   HTML Lists, CSS Boxes, JS Control Flow      |
 |                               -                                    |                                      4        |
 |                               -                                    |                                      5        |
 |                               -                                    |                                      6        |
