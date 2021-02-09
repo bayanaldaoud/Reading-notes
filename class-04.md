@@ -19,8 +19,9 @@ A website is often divided into headers, menus, content and a footer:
 
 
 
+
 <p align="center">
-<img src= 'https://novage.com.sg/wordpress/wp-content/uploads/2015/12/Website-Layout-for-good-SEO.jpg)'width="350" >
+<img src="https://novage.com.sg/wordpress/wp-content/uploads/2015/12/Website-Layout-for-good-SEO.jpg" width="350" >
 
 </p>
 
@@ -73,9 +74,9 @@ variables and functions take on new names.
     * HTML CSS
 * links 
 
-  * w3schools.com
+  * <a href="https://www.w3schools.com/">w3schools</a>
 
 
 
 
-  
+   
