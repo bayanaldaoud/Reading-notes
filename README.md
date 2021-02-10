@@ -25,7 +25,7 @@
 |[class-02](https://bayanaldaoud.github.io/Reading-notes/class-02)   |  Basics of HTML, CSS & JS                     |
 |[class-03](https://bayanaldaoud.github.io/Reading-notes/class-03)   |   HTML Lists, CSS Boxes, JS Control Flow      |
 |[class-04](https://bayanaldaoud.github.io/Reading-notes/class-04)   |  HTML Links, CSS Layout, JS Functions         |
-|                               -                                    |                                      5        |
+|[class-05](https://bayanaldaoud.github.io/Reading-notes/class-05)   |  HTML Images; CSS Color & Text                |
 |                               -                                    |                                      6        |
 |                               -                                    |                                      7        |
 |                               -                                    |                                      8        |
