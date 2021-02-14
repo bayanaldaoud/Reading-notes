@@ -27,7 +27,7 @@
 |[class-04](https://bayanaldaoud.github.io/Reading-notes/class-04)   |  HTML Links, CSS Layout, JS Functions         |
 |[class-05](https://bayanaldaoud.github.io/Reading-notes/class-05)   |  HTML Images; CSS Color & Text                |
 |[class-06](https://bayanaldaoud.github.io/Reading-notes/class-06)   |  JS Object Literals; The DOM                  |
-|                               -                                    |                                      7        |
+|[class-07](https://bayanaldaoud.github.io/Reading-notes/class-07)   |  HTML Tables; JS Constructor Functions        |
 |                               -                                    |                                      8        |
 |                               -                                    |                                      9        |
 |                               -                                    |                                     10        |
