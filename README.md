@@ -23,12 +23,12 @@
 | -------------------------------------------------------------------| --------------------------------------------- |
 |[class-01](https://bayanaldaoud.github.io/Reading-notes/class-01)   |  Introductory HTML and JavaScript             |
 |[class-02](https://bayanaldaoud.github.io/Reading-notes/class-02)   |  Basics of HTML, CSS & JS                     |
-|[class-03](https://bayanaldaoud.github.io/Reading-notes/class-03)   |   HTML Lists, CSS Boxes, JS Control Flow      |
+|[class-03](https://bayanaldaoud.github.io/Reading-notes/class-03)   |  HTML Lists, CSS Boxes, JS Control Flow       |
 |[class-04](https://bayanaldaoud.github.io/Reading-notes/class-04)   |  HTML Links, CSS Layout, JS Functions         |
 |[class-05](https://bayanaldaoud.github.io/Reading-notes/class-05)   |  HTML Images; CSS Color & Text                |
 |[class-06](https://bayanaldaoud.github.io/Reading-notes/class-06)   |  JS Object Literals; The DOM                  |
 |[class-07](https://bayanaldaoud.github.io/Reading-notes/class-07)   |  HTML Tables; JS Constructor Functions        |
-|                               -                                    |                                      8        |
+|[class-08](https://bayanaldaoud.github.io/Reading-notes/class-08)   |  CSS Layout                                   |
 |                               -                                    |                                      9        |
 |                               -                                    |                                     10        |
 |                               -                                    |                                     11        |

@@ -23,8 +23,6 @@ When a web page is loaded, the browser creates a Document Object Model of the pa
 The HTML DOM model is constructed as a tree of Objects:
 
 
-<img src="https://lh3.googleusercontent.com/proxy/_eIZWMDopEY7qXBvFvAHf9MbCRCsilZrNd6w4Yz7S-Lae2WlviUzzoeNqgJo9LraovvduIplv5s_FwQek6TStSfOu_uEnzMtL82MgKN8PC3So4f5kkfTFovblkQuKpmyhoPskcdSag" alt="dec" style="width:500px;">
-
 
 With the object model, JavaScript gets all the power it needs to create dynamic HTML:
 
