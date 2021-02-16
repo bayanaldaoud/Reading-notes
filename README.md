@@ -29,7 +29,7 @@
 |[class-06](https://bayanaldaoud.github.io/Reading-notes/class-06)   |  JS Object Literals; The DOM                  |
 |[class-07](https://bayanaldaoud.github.io/Reading-notes/class-07)   |  HTML Tables; JS Constructor Functions        |
 |[class-08](https://bayanaldaoud.github.io/Reading-notes/class-08)   |  CSS Layout                                   |
-|                               -                                    |                                      9        |
+|[class-09](https://bayanaldaoud.github.io/Reading-notes/class-09)   |  Forms and Events                             |
 |                               -                                    |                                     10        |
 |                               -                                    |                                     11        |
 |                               -                                    |                                     12        |
