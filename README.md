@@ -30,7 +30,7 @@
 |[class-07](https://bayanaldaoud.github.io/Reading-notes/class-07)   |  HTML Tables; JS Constructor Functions        |
 |[class-08](https://bayanaldaoud.github.io/Reading-notes/class-08)   |  CSS Layout                                   |
 |[class-09](https://bayanaldaoud.github.io/Reading-notes/class-09)   |  Forms and Events                             |
-|                               -                                    |                                     10        |
+|[class-10](https://bayanaldaoud.github.io/Reading-notes/class-10)   |  Error Handling & Debugging                   |
 |                               -                                    |                                     11        |
 |                               -                                    |                                     12        |
 |                               -                                    |                                     13        |
