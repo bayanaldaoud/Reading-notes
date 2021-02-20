@@ -31,7 +31,7 @@
 |[class-08](https://bayanaldaoud.github.io/Reading-notes/class-08)   |  CSS Layout                                   |
 |[class-09](https://bayanaldaoud.github.io/Reading-notes/class-09)   |  Forms and Events                             |
 |[class-10](https://bayanaldaoud.github.io/Reading-notes/class-10)   |  Error Handling & Debugging                   |
-|                               -                                    |                                     11        |
+|[class-11](https://bayanaldaoud.github.io/Reading-notes/class-11)   |  Audio, Video, Images                         |
 |                               -                                    |                                     12        |
 |                               -                                    |                                     13        |
 |                               -                                    |                                     14        |
