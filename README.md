@@ -32,7 +32,7 @@
 |[class-09](https://bayanaldaoud.github.io/Reading-notes/class-09)   |  Forms and Events                             |
 |[class-10](https://bayanaldaoud.github.io/Reading-notes/class-10)   |  Error Handling & Debugging                   |
 |[class-11](https://bayanaldaoud.github.io/Reading-notes/class-11)   |  Audio, Video, Images                         |
-|                               -                                    |                                     12        |
+|[class-12](https://bayanaldaoud.github.io/Reading-notes/class-12)   |  Chart.js, Canvas                             |
 |                               -                                    |                                     13        |
 |                               -                                    |                                     14        |
 |                               -                                    |                                     15        |
