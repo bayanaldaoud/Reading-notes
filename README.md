@@ -34,8 +34,8 @@
 |[class-11](https://bayanaldaoud.github.io/Reading-notes/class-11)   |  Audio, Video, Images                         |
 |[class-12](https://bayanaldaoud.github.io/Reading-notes/class-12)   |  Chart.js, Canvas                             |
 |[class-13](https://bayanaldaoud.github.io/Reading-notes/class-13)   |  Local Storage                                |
-|                               -                                    |                                     14        |
-|                               -                                    |                                     15        |
+|[class-14a](https://bayanaldaoud.github.io/Reading-notes/class-14a) |  CSS Transforms, Transitions, and Animations  |
+|[class-14b](https://bayanaldaoud.github.io/Reading-notes/class-14b) |  What Google Learned About Teams              |
 
 
 
